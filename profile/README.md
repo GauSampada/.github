@@ -52,11 +52,11 @@
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/GauSampada.git
+   git clone https://github.com/GauSampada/app-gausampada.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd GauSampada
+   cd app-gausampada
    ```
 3. Install dependencies:
    ```sh
