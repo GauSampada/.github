@@ -107,9 +107,5 @@ We welcome contributions from the community! To contribute:
    ```
 4. Open a Pull Request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-For queries or collaboration, contact us at **support@gau-sampada.com**.
 
