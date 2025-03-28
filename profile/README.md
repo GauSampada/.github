@@ -44,10 +44,10 @@
 ## Technology Stack
 - **Frontend:** Flutter (Dart)
 - **Backend:** Firebase, Flask
-- **AI Model:** Gemini 2.0 Flash for disease detection
+- **AI Model:** Gemini 2.0 Flash 
 - **Database:** Firestore
 - **Mapping & Location Services:** Google Maps API
-- **Cloud Storage:** Firebase Cloud Storage
+- **Cloud Storage:** Cloudinary Cloud Storage
 
 ## Installation
 1. Clone the repository:
