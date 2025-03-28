@@ -6,6 +6,9 @@
 
 ## Features
 
+<img src="https://github.com/user-attachments/assets/8ab0b582-2e2d-4ac3-ae08-257623377c0a" alt="app features" width="600" height="400">
+
+
 ### 1. **Breed Information Module**
    - Provides detailed insights on Indian cow breeds, their characteristics, and ideal breeding conditions.
    - AI-powered breed recommendation based on the farmer's location and needs.
