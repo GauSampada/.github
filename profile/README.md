@@ -3,10 +3,12 @@
 ## Overview
 **GauSampada** is an innovative mobile application designed to support the conservation and improvement of indigenous Indian cow breeds. It aims to empower farmers with knowledge, tools, and marketplace access to enhance sustainability, economic growth, and biodiversity conservation. The app aligns with the Kamdhenu Program and supports multiple Sustainable Development Goals (SDGs).
 
+
 ## Features
+
 ### 1. **Breed Information Module**
    - Provides detailed insights on Indian cow breeds, their characteristics, and ideal breeding conditions.
-   - AI-powered breed recommendation based on farmer's location and needs.
+   - AI-powered breed recommendation based on the farmer's location and needs.
 
 ### 2. **AI-Driven Disease Prediction**
    - Farmers can upload images of cows.
@@ -23,6 +25,23 @@
 ### 5. **Veterinarian Locator**
    - Helps farmers find and connect with nearby veterinarians for professional advice.
    - Ensures better healthcare and well-being for Indian cows.
+
+### 6. **Breed Identification Screen**
+   - Farmers can identify the breed of their cows using AI.
+   - Helps in making informed decisions about breeding, care, and management based on breed traits.
+
+### 7. **Government Schemes & Subsidy Information**
+   - Provides farmers with access to financial assistance programs and subsidies.
+   - Helps in maximizing benefits from government initiatives.
+
+### 8. **Video Call & Reports Saving**
+   - Enables farmers to consult veterinarians or experts via **video calls**.
+   - Saves health reports for tracking cow health and performance over time.
+
+### 9. **Crowdfunding for Conservation**
+   - Allows farmers and NGOs to raise funds for conservation projects.
+   - Supports initiatives that benefit indigenous cow breeds and promotes community involvement in sustainable farming.
+
 
 ## Sustainable Development Goals (SDGs) Alignment
 1. **SDG 2: Zero Hunger**  
