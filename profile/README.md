@@ -6,7 +6,7 @@
 
 ## Features
 
-<img src="https://github.com/user-attachments/assets/8ab0b582-2e2d-4ac3-ae08-257623377c0a" alt="app features" width="1000" height="600">
+<img src="https://github.com/user-attachments/assets/8ab0b582-2e2d-4ac3-ae08-257623377c0a" alt="app features" >
 
 
 ### 1. **Breed Information Module**
