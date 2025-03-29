@@ -3,7 +3,6 @@
 ## Overview
 **GauSampada** is an innovative mobile application designed to support the conservation and improvement of indigenous Indian cow breeds. It aims to empower farmers with knowledge, tools, and marketplace access to enhance sustainability, economic growth, and biodiversity conservation. The app aligns with the Kamdhenu Program and supports multiple Sustainable Development Goals (SDGs).
 
-
 ## Features
 
 <img src="https://github.com/user-attachments/assets/8ab0b582-2e2d-4ac3-ae08-257623377c0a" alt="app features" >
